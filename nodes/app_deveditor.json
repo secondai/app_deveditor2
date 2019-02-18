@@ -1,0 +1,14 @@
+{
+  "type": "app_base:Qmtesting",
+  "name": "app_deveditor",
+  "data": {
+    "appId": "deveditor",
+    "name": "Developer Editor",
+    "release": "production",
+    "version": 1,
+    "releaseNotes": "....",
+    "owner": "secondai",
+    "defaultBranch": "master",
+    "repo": "app_deveditor2"
+  }
+}
